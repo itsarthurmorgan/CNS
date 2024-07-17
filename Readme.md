@@ -1,5 +1,16 @@
-Change path in cmd to the specified folder
+1. Open CMD and change the path to the specified folder:
 
-Enter command in cmd:
-javac filename.java
-java filename
+   ```cmd
+   cd specified\folder\path
+   ```
+
+2. Compile the Java file:
+
+   ```cmd
+   javac filename.java
+   ```
+
+3. Run the compiled Java program:
+   ```cmd
+   java filename
+   ```
