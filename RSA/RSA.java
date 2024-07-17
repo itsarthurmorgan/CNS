@@ -36,3 +36,8 @@ public class RSA {
         return e;
     }
 }
+
+// Output: Enter a prime number: 61
+// Enter another prime number: 53
+// Encryption keys are: (17, 3233)
+// Decryption keys are: (2753, 3233)

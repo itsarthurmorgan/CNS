@@ -42,3 +42,11 @@ public class MD5 {
         return buf.toString();
     }
 }
+
+// Output: Message digest object info:
+// Algorithm = MD5
+// Provider = SunRsaSign version 11
+// ToString = MD5 Message Digest from SUN, <initialized>
+// MD5("") = D41D8CD98F00B204E9800998ECF8427E
+// MD5("abc") = 900150983CD24FB0D6963F7D28E17F72
+// MD5("abcdefghijklmnopqrstuvwxyz") = C3FCD3D76192E4007DFB496CCA67E13B

@@ -93,3 +93,16 @@ public class HillCipher {
                 }
     }
 }
+
+// Output: Enter 3x3 matrix for key (It should be invertible): 
+// 6 24 1
+// 13 16 10
+// 20 17 15
+// Enter a 3 letter string: abc
+//Encrypted string is: akv
+// Inverse Matrix is: 
+// 0.15873016 -0.7777778 0.50793654 
+// 0.011337869 0.15873016 -0.106575966 
+// -0.2244898 0.85714287 -0.48979592 
+
+// Decrypted string is: abc

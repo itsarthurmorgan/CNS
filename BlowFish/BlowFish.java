@@ -35,3 +35,8 @@ public class BlowFish {
         }
     }
 }
+
+
+//Output: Initialization Vector of the Cipher: 0x000102030405060708090A0B0C0D0E0F
+// input.txt: Hello, World!
+// output.txt: 諪\_�7�u���

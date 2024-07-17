@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "BlowFish",
+      "request": "launch",
+      "mainClass": "BlowFish",
+      "projectName": "CNS_5cb1777b"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",

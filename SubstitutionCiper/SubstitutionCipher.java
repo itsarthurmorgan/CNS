@@ -29,3 +29,6 @@ public class SubstitutionCipher {
         System.out.println("The encrypted data is: " + decrypt);
     }
 }
+
+// Output: Enter any string: Hello, World!
+// The encrypted data is: Svool, Dliow!

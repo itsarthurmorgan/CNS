@@ -29,3 +29,7 @@ public class BlowCipher {
         System.exit(0);
     }
 }
+
+// Output: Encrypted text: [B@6d06d69c
+// Decrypted text: Hello, World!
+
