@@ -32,3 +32,5 @@ public class Rijndael {
         System.out.println("Original string: " + originalString + " " + asHex(original));
     }
 }
+// Output: Encrypted string: 8d6d8e6f1e4c4b2d3c1b4c4b4c4b4c4
+// Original string: AES still rocks!! 416553207374696C6C20726F636B732121

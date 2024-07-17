@@ -59,3 +59,7 @@ c = c + 26;
 return decrypted;
 }
 }
+
+//output: Enter any String: Hello, World!
+//Enter the Key: 3
+//Encrypted String is: Khoor, Zruog!

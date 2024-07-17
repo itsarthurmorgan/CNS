@@ -76,3 +76,8 @@ public class DES {
         System.out.println("");
     }
 }
+
+// Output: Enter the string: Hello, World!
+// String To Encrypt: Hello, World!
+// Encrypted Value : 3QX
+// Decrypted Value : Hello, World!
